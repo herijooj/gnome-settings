@@ -38,6 +38,8 @@ This one is pretty based. it synchronizes your phone notifications, music, clipb
 
 This one synchronizes your keybinds, themes and extensions (duh) in a file or GitHub gist. I'm writing this repo because of it. the file is in this repo if you want my config.
 
+![](extensions2.png)
+
 3. [GTK Title Bar](https://extensions.gnome.org/extension/1732/gtk-title-bar/)
 
 This one removes the title bar from programs that don't have a use from then.
