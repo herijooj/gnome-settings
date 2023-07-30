@@ -1,69 +1,85 @@
 # My Sane Gnome Setup
 
-![](capa.png)
+![](./scr/capa.png)
 
 In this repo i will try to explain my setup and ramble about gnome devs and this DE
 
 # The Idea:
 
-Just a Screen. I don't need much stuff. I don't fiddle around with interfaces, I just need to call the programs and they show up on the screen (?) is that SO hard? so i removed everything. simple as that.
+Just a Screen. Simple as that.
 
-![](setup1.png)
+![](./scr/setup1.png)
 
 I call all my programs through shortcuts. I use the overview sometimes to switch workspaces or to see the time/date, I think it works pretty great.
 
 ## Themes
 
-I just use the normal adwaita theme. To be honest I kinda like the old one more, with all the depth and that kinda-like skeuomorphic design. It was "modern" but not taste-less like GTK4. if it was good i would use elementary OS i guess. More or less the same thing.
+I just use the normal adwaita theme. To be honest I kinda like the old one more, with all the depth and that kinda-like skeuomorphic design. It was "modern" but not taste-less like GTK4.
 
-I lied. i installed this: <<<https://github.com/lassekongo83/adw-gtk3>>> it makes the gtk3 programs look like gtk4, i mean they are worse but consistent.
+To make everthing consistent i installed [Adw-GTK3](https://github.com/lassekongo83/adw-gtk3), it makes the GTK3 programs look like GTK4 ones.
 
 ## Icons
 
-I tried to use the default ones too. but they are kinda ugly, gnome devs don't want you messing around with themes and icons, but man they are so ugly and inconsistent. And I mean, bro it’s MY computer. I do make the rules so i use the Papirus Icon Theme, they are not that far from the normal ones and are ok and consistent
+I gave up trying to customize stuff, i just use [MoreWaita](https://github.com/somepaulo/MoreWaita) now, i think it looks cute.
+
+![](./scr/icons.png)
 
 # Extensions
 
-![](extensions.png)
+![](./scr/extensions.png)
 
-I've used tiling window managers for a long time and discovered that I'm a simple man, I don't need much stuff, just give me a browser and a terminal and I'm golden.
+1. [Auto Activities](https://extensions.gnome.org/extension/5500/auto-activities/)
 
-I don't use many extensions. and the ones that i have functions to dumb-down the desktop. I use the following.
+This is kinda useless, but i like it. it opens the overview when there is no programs open.
 
-1. [GS connect](https://extensions.gnome.org/extension/1319/gsconnect/)
+2. [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
 
-This one is pretty based. it synchronizes your phone notifications, music, clipboard and other stuff with your computer, thank you KDE project for this.
+I use this to disable the screensaver when i am doing something where i don't touch the mouse for a long time. It also disables the screensaver when i am in fullscreen.
 
-2. [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
+3. [Custom Accent Colors](https://extensions.gnome.org/extension/5547/custom-accent-colors/)
 
-This one synchronizes your keybinds, themes and extensions (duh) in a file or GitHub gist. I'm writing this repo because of it. the file is in this repo if you want my config.
+I don't like much color, so i made everything gray.
 
-![](extensions2.png)
+4. [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
 
-3. [GTK Title Bar](https://extensions.gnome.org/extension/1732/gtk-title-bar/)
+This is incredible, it works so well. I can have notifications, sync the clipboard, mute the computer when i get a call, control the music, send files and etc. I use it with KDEConnect on my phone.
 
-This one removes the title bar from programs that don't have a use from then.
+5. [GTK3 Theme Switcher](https://extensions.gnome.org/extension/5401/gtk3-theme-switcher/)
 
-4. [Thinkpad Battery threshold](https://extensions.gnome.org/extension/4798/thinkpad-battery-threshold/)
+So when the night-theme kicks in, the GTK3 programs also change to the dark theme.
 
-This one is the title. Thanks to the guy that sold me an old-ass battery for 150(BRL) to me, I hate you.
+6. [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 
-5. [Tray icons: Reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/)
+This has everthing, i use to only show the top bar in the overview, make the dock slighly smaller and some other stuff.
 
-This one makes gnome developers go CRAZY, they are so entitled and think they are so intelligent that they don't realize that NO ONE CARES about them. why they thought they could get away with removing the tray icons ????? and they say “bro c'mon bro we have apis we have replacements that work integrated with gnome” do they even realize that MAYBE I NEED A NON-GNOME PROGRAM??? This is not apple man. Sometimes I need some obscure crazy thing written for a normal sane desktop environment. It should work with that.
+7. [No Titlebar When Maximized](https://extensions.gnome.org/extension/4630/no-titlebar-when-maximized/)
 
-6. [User themes](https://extensions.gnome.org/extension/19/user-themes/)
+I use shortcuts to close, minimize and maximize programs, the titlebar is useless in programs like vscode.
 
-I don't know why I have this installed. I don't even use it.
+8. [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 
-7. [Pop Shell](https://github.com/pop-os/shell)
+So that every window looks cute.
 
-Kinda buggy. but i miss tilling. sometimes i use it
+# Extras
 
-# The Final Say
+## Firefox Gnome Theme
+There is a theme for firefox that makes it look like Gnome Web, it's called [Firefox Gnome Theme](https://github.com/rafaelmardojai/firefox-gnome-theme), it also hides the tabs when there is only one open.
+
+![](./scr/firefox.png)
+
+## Obsidian Adwaita Theme
+
+I use Obsidian for most of my stuff, there is [This](https://github.com/birneee/obsidian-adwaita-theme) theme for it, i also have a public Vault where i index Kanye West Music lyrics, you can check it [Here](https://github.com/herijooj/Kanye-Vault)
+
+![](./scr/myvault.png)
+
+![](./scr/kanyevault.png)
+
+
+# Final Thoughts
 
 I am happy with my setup. I Hate gnome so much you have no idea, but I guess I got used to it? I like the overview and a bit of the design. I tried KDE for about 20 minutes and gave up. Maybe someday I will be happy with a riced i3 setup again but i don't want to configure it.
 
-![](setup2.jpg)
-![](setup3.jpg)
-![](setup4.jpg)
+![](./scr/setup2.png)
+
+![](./scr/setup3.png)
