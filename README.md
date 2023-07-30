@@ -76,6 +76,30 @@ I use Obsidian for most of my stuff, there is [This](https://github.com/birneee/
 ![](./scr/kanyevault.png)
 
 
+# Keybindings
+
+When i started using [LARBS](https://larbs.xyz/) i got used to these keybindings, so i use them in every distro i use.
+
+| Action | Keybinding |
+| --- | --- |
+| Open Terminal | `Super + Enter` |
+| Open Browser | `Super + W` |
+| Open File Manager | `Super + R` |
+| Open Music Player | `Super + M` |
+| Open Calculator | `Super + C` |
+| Open Settings | `Alt + F1` |
+| Lock Screen | `Super + X` |
+| Screenshot | `PrtSc` |
+| Logout | `Super + Esc` |
+| Close Window | `Super + Q` |
+| Toggle Window State | `Super + Space` |
+| Left Workspace | `Super + D` |
+| Right Workspace | `Super + A` |
+| Move Window to Left Workspace | `Super + Shift + D` |
+| Move Window to Right Workspace | `Super + Shift + A` |
+| Move to Workspace [Number] | `Super + [Number]` |
+| Move Window to Workspace [Number] | `Super + Shift + [Number]` |
+
 # Final Thoughts
 
 I am happy with my setup. I Hate gnome so much you have no idea, but I guess I got used to it? I like the overview and a bit of the design. I tried KDE for about 20 minutes and gave up. Maybe someday I will be happy with a riced i3 setup again but i don't want to configure it.
