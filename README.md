@@ -67,6 +67,18 @@ There is a theme for firefox that makes it look like Gnome Web, it's called [Fir
 
 ![](./scr/firefox.png)
 
+### Good Firefox Extensions
+i will throw some firefox extensions so that the feds can fingerprint me.
+
+- [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/)
+- [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/)
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+- [skip redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
+- [SponsorBlock](https://sponsor.ajay.app//)
+- [DeArrow](https://dearrow.ajay.app/)
+
 ## Obsidian Adwaita Theme
 
 I use Obsidian for most of my stuff, there is [This](https://github.com/birneee/obsidian-adwaita-theme) theme for it, i also have a public Vault where i index Kanye West Music lyrics, you can check it [Here](https://github.com/herijooj/Kanye-Vault)
